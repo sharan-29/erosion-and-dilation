@@ -114,9 +114,9 @@ plt.show()
 
 ## Program Developed By
 
-**Name:** Janesha S
+**Name:** Sharan Kumar G
 
-**Register No:** 212225240056
+**Register No:** 212224230260
 
 ## Output
 
@@ -125,7 +125,8 @@ plt.show()
 - A text image containing characters is displayed.
 - The image serves as the input for morphological processing.
 
-  <img width="515" height="397" alt="image" src="https://github.com/user-attachments/assets/ec182c4c-f0c4-4955-9ecc-c418677c321d" />
+<img width="387" height="515" alt="image" src="https://github.com/user-attachments/assets/b92b6e54-9360-4b62-85ec-cc961633ccbe" />
+
 
 
 ### Erosion
@@ -135,7 +136,8 @@ plt.show()
 - The thickness of the characters is reduced.
 - Object boundaries shrink inward.
 
-  <img width="515" height="397" alt="image" src="https://github.com/user-attachments/assets/b09cf193-b49b-4adf-9aeb-c8e2e8f367d3" />
+<img width="407" height="522" alt="image" src="https://github.com/user-attachments/assets/26633979-5d48-4303-93bd-a54e5aed935a" />
+
 
 
 ### Dilation
@@ -145,9 +147,8 @@ plt.show()
 - The thickness of the characters increases.
 - Object boundaries expand outward.
 
-<img width="515" height="397" alt="image" src="https://github.com/user-attachments/assets/925cdb36-b223-44a3-922f-20a39c8a751d" />
+<img width="388" height="515" alt="image" src="https://github.com/user-attachments/assets/ecaf74d0-f59d-4241-a848-e1937ac705d2" />
 
-<img width="1489" height="385" alt="image" src="https://github.com/user-attachments/assets/6f9876ad-0200-4579-b8ee-c1242032c33e" />
 
 
 ## Result
